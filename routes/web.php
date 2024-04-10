@@ -6,7 +6,7 @@ use Illuminate\Support\Facades\Route;
 
 // Route::get('/',[WelcomeConroller::class,'welcome'])->name('welcome');
 
-// // show single note
+// // show all notes  note
 // Route::get('/note',[NoteController::class,'index'])->name('note.index');
 
 // // create note
