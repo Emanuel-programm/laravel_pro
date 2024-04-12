@@ -1,4 +1,4 @@
-<x-layout>
+<x-app-layout>
 
     <div class="note-container single-note">
     <h1>Edit your Note</h1>
@@ -18,5 +18,5 @@
     </div>
     
     
-    </x-layout>
+    </x-app-layout>
     
